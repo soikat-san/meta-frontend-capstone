@@ -28,8 +28,8 @@ A React web application for the Little Lemon Mediterranean restaurant, featuring
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/little-lemon-capstone.git
-cd little-lemon-capstone
+git clone https://github.com/<your-username>/meta-frontend-capstone.git
+cd meta-frontend-capstone
 ```
 
 ### 2. Install dependencies
