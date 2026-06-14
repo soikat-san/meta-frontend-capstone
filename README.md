@@ -13,8 +13,8 @@ A React web application for the Little Lemon Mediterranean restaurant, featuring
 
 ## Tech Stack
 
-- React 18
-- React Router v6
+- React 19
+- React Router v7
 - Vite
 - CSS (no UI library)
 
